@@ -78,7 +78,7 @@ This dashboard was designed to:
 
 ---
 ### 📇 Dashboard
-<img src="image.jpg" alt="My Image" width="300">
+<img src="https://github.com/pritisawant-19/Sales_Analysis_Using-Excel-/blob/main/Sales%20dashboard.jpg" alt="My Image" width="800">
 
 
 Let me know if you'd like a downloadable `.md` file or a version tailored for a specific platform like GitHub or Notion.

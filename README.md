@@ -77,5 +77,8 @@ This dashboard was designed to:
 **Purpose**: For sales data analysis and visualization.
 
 ---
+### 📇 Dashboard
+<img src="image.jpg" alt="My Image" width="300">
+
 
 Let me know if you'd like a downloadable `.md` file or a version tailored for a specific platform like GitHub or Notion.
